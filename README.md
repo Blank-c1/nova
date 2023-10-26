@@ -2,7 +2,9 @@
 contact Nova1_ on discord for help
 this tool is made for educational puprs only
 
-https://cdn.discordapp.com/attachments/1166471475604246561/1167249613229658204/image.png?ex=654d70ea&is=653afbea&hm=126756aceee4e0dbcfb8eff5fbb7c74510cd012ed495efda4409aedb38ed6967&
+make sure to extract the files to your desktop or the options will not work
+
+![image](https://github.com/Blank-c1/nova/assets/146923730/8d787d1a-7b2a-44fd-839f-2a7950a8efe0)
 
 generate beam link
 ddos tools
