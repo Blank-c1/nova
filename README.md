@@ -1,5 +1,5 @@
 # nova
-contact Nova1_ on discord for help
+contact novagrabber on discord for help
 this tool is made for educational puprs only
 
 make sure to extract the files to your desktop or the options will not work
