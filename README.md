@@ -14,6 +14,7 @@ account generator
 phoenix nuker
 echo 6. discord token grabber
 roblox aimbot (beta)
+celex key generator
  exit        
 
 
