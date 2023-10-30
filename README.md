@@ -15,6 +15,9 @@ phoenix nuker
 echo 6. discord token grabber
 roblox aimbot (beta)
 celex key generator
- exit        
+ exit   
+
+ ![image](https://github.com/Blank-c1/nova/assets/146923730/006c7df9-667b-4578-82c0-f9d66005e56f)
+
 
 
